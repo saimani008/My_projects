@@ -1,2 +1,2 @@
 # My_projects
-This contains all my projects that i had done
+This repository contains information about all my projects that I had done.
